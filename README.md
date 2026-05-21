@@ -13,7 +13,9 @@ This application will allow you to set a beep sound to be set to match a specifi
 
 1. Start LMU and go in to practice session with the car you want to setup. 
 2. Check that the service is connected, and that the team name is showing.
-<img width="608" height="447" alt="Screenshot 2026-05-21 110715" src="https://github.com/user-attachments/assets/1feb720f-cb61-41cf-8454-73ad104a30b6" /> 
+
+<img width="608" height="447" alt="Screenshot 2026-05-21 110715" src="https://github.com/user-attachments/assets/1feb720f-cb61-41cf-8454-73ad104a30b6" />
+
 3. Then, select the specific car, set the RPM settings, delay and volume you require and click on save.
 4. When Loading a the same car with a different team, you will need to select the car to associate it, once selected, the saved setting will be loaded. 
 5. Click Save to add the new association.
