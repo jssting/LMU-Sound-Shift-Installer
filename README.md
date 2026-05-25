@@ -13,12 +13,12 @@ It uses the `LeMansUltimateTelemetryPlugin.dll` telemetry Plugin dll created by 
 
 <img width="447" alt="Screenshot 2026-05-21 114644" src="https://github.com/user-attachments/assets/ad8c2911-a4fe-41c5-a1af-4690c368340c" />
    
-6. If you have Windows firewall active, a popup will appear to allow the service through the firewall. This is due to the fact that it connects to the telemetry on 127.0.0.1 over UDP on port 5000. You will have to allow the service to communicate to be able to get the telemetry from LMU
+5. If you have Windows firewall active, a popup will appear to allow the service through the firewall. This is due to the fact that it connects to the telemetry on 127.0.0.1 over UDP on port 5000. You will have to allow the service to communicate to be able to get the telemetry from LMU
 
 <img width="310"  alt="Screenshot 2026-05-21 114829" src="https://github.com/user-attachments/assets/4802c485-2110-4855-b37a-288f86dc3660" />
    
-8. Follow the instructions located under the 'help' menu to enable the 'LeMansUltimateTelemetryPlugin.dll' to receive telemetry from LMU.
-9. You will have to allow the service to communicate 
+6. Follow the instructions located under the 'help' menu to enable the 'LeMansUltimateTelemetryPlugin.dll' to receive telemetry from LMU.
+7. You will have to allow the service to communicate 
 
 ## Setting a Profile for a Car (associated to a Team)
 ***Note: Due to the way we receive Telemetry from LMU, which only provides the team name, not the car model, we need to associate the car to the team and not vice versa.***
