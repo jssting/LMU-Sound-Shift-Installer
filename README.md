@@ -20,18 +20,15 @@ It uses the `LeMansUltimateTelemetryPlugin.dll` telemetry Plugin dll created by 
 6. Follow the instructions located under the 'help' menu to enable the 'LeMansUltimateTelemetryPlugin.dll' to receive telemetry from LMU.
 7. You will have to allow the service to communicate 
 
-## Setting a Profile for a Car (associated to a Team)
-***Note: Due to the way we receive Telemetry from LMU, which only provides the team name, not the car model, we need to associate the car to the team and not vice versa.***
+## Setting a Profile for a Car 
 
 1. Start LMU and go in to practice session with the car you want to setup. 
 2. Check that the service is connected, and that the team name is showing.
 
-<img width="400" alt="Screenshot 2026-05-21 110715" src="https://github.com/user-attachments/assets/1feb720f-cb61-41cf-8454-73ad104a30b6" />
+<img width="612" height="459" alt="Screenshot 2026-05-31 194020" src="https://github.com/user-attachments/assets/571e3e61-27d2-4c86-a298-a24acdcbf756" />
 
-3. Then, select the specific car, set the RPM settings, delay and volume you require and click on save.
-4. When Loading a the same car with a different team, you will need to select the car to associate it, once selected, the saved setting will be loaded. 
-5. Click Save to add the new association.
 
+3. Then, set the RPM settings, delay and volume you require and click on save.
 
 You find the application useful, please feel free to buy me a coffee at [BuymeaCoffee](https://buymeacoffee.com/jssting)
 
