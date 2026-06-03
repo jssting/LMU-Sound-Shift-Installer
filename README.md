@@ -22,7 +22,7 @@ It uses the `LeMansUltimateTelemetryPlugin.dll` telemetry Plugin dll created by 
 
 ## Setting a Profile for a Car 
 
-1. Start LMU and go in to practice session with the car you want to setup. 
+1. Start LMU and go into a practice session with the car you want to setup. 
 2. Check that the service is connected, and that the team name is showing.
 
 <img width="612" height="459" alt="Screenshot 2026-05-31 194020" src="https://github.com/user-attachments/assets/571e3e61-27d2-4c86-a298-a24acdcbf756" />
