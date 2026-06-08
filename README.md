@@ -3,6 +3,7 @@ This application will allow you to set a beep sound to be set to match a specifi
 
 ## How does it work
 It uses the `rFactor2SharedMemoryMapPlugin64.dll` telemetry Plugin dll which provides the telemetry, and uses the LMU API's for static data. The LMU Shift Sound uses the telemetry stream to update Gears and RPM's, and uses the data to play a beep sound at the time where the set Limit matches the current gear and engine RPM, helping you to easily get a audible notification at the optimal shift point that you can adjust. 
+The service will automatically connect to the LMU API and Telemetry services when you enter the car in the pits and will also automatically disconnect when you exit the car.
 
 ## Installation
 
