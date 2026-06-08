@@ -2,7 +2,7 @@
 This application will allow you to set a beep sound to be set to match a specific RPM to support optimimal shifting and draws inspiration from the `Sound Shift` app created for IRacing, but was recreated from the ground up for LMU.
 
 ## How does it work
-It uses the `rFactor2SharedMemoryMapPlugin64.dll` telemetry Plugin dll which provides the telemetry, and uses the LMU API's for static data. The LMU Shift Sound then uses the stream to get the Car and Team Name, Gears, RPM's etc and uses the data to play a beep sound at the time where the set Limit matches the current gear and engine RPM, helping you to easily get a audible notification at the optimal shift point that you can adjust. 
+It uses the `rFactor2SharedMemoryMapPlugin64.dll` telemetry Plugin dll which provides the telemetry, and uses the LMU API's for static data. The LMU Shift Sound then uses the stream to update Gears and RPM's etc and uses the data to play a beep sound at the time where the set Limit matches the current gear and engine RPM, helping you to easily get a audible notification at the optimal shift point that you can adjust. 
 
 ## Installation
 
